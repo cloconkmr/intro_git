@@ -3,3 +3,5 @@ git勉強用
 git add 変更の勉強中
 git rm
 git status
+git log
+git diff
