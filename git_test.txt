@@ -5,3 +5,4 @@ git rm
 git status
 git log
 git diff
+2024/2/29閏年追加
